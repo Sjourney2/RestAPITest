@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestAPITestApplication</string>
+    <string name="hint_string">Android</string>
+    <string name="input_text">文字列を入力してください</string>
+    <string name="cancel_button">削除</string>
+    <string name="search_button">検索</string>
+    <string name="search_result">検索結果</string>
+    <string name="repository_name">リポジトリ名：</string>
+    <string name="no_result">検索結果はありません</string>
+</resources>
